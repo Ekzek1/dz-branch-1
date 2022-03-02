@@ -22,4 +22,4 @@ NeuroStartUp — динамически развивающийся старта�
     font-family: "Awesome", Arial, sans-serif;
     color: red;
     }
-```;
+```
